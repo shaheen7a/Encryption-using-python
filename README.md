@@ -1,5 +1,5 @@
 
-# Encryption-unsing-python | Protection of Personal Data in Web Services Through Encryption
+# Encryption-using-python | Protection of Personal Data in Web Services Through Encryption
 
 This project is designed to implement an encryption algorithm using Python's cryptography library and Fernet module. The aim of the project is to ensure the security of sensitive data that is being transmitted between users through web services. The project is primarily targeted towards individuals and organizations who want to secure their data using encryption techniques.
 
